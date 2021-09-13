@@ -1,0 +1,10 @@
+E={0,1,2,3,4}
+N={2,4,5,6,8}
+#UNION
+print(E|N)
+#INTERSECTION
+print(E&N)
+#DIFFERENCE
+print(E-N)
+#SYMMETRIC DIFFERENCE
+print(E^N)
